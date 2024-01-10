@@ -18,3 +18,6 @@ g { color: Green }
 Some info here about the content
 
 This pages showes some writeups and analysis I looked into
+
+
+![alt text](https://media.wired.com/photos/598e35fb99d76447c4eb1f28/master/pass/phonepicutres-TA.jpg)
